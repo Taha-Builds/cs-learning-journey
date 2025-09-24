@@ -1,2 +1,3 @@
 # cs-learning-journey
 This repository contains my coding practice, projects, and notes during my BS CS degree.
+Author-name :: Taha Arshad
